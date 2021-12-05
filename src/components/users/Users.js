@@ -8,19 +8,19 @@ class Users extends Component {
         this.state = {
             users:[
                 {
-                    id:'id',
+                    id:'1',
                     login:'Pawan',
                     avatar_url:'https://avatars.githubusercontent.com/u/46804071?v=4',
                     html_url:'https://github.com/devpawann'
                 },
                 {
-                    id:'id',
+                    id:'2',
                     login:'Nitesh',
                     avatar_url:'https://avatars.githubusercontent.com/u/31273031?v=4',
                     html_url:'https://github.com/devpawann'
                 },
                 {
-                    id:'id',
+                    id:'3',
                     login:'Kamal',
                     avatar_url:'https://avatars.githubusercontent.com/u/47470542?v=4',
                     html_url:'https://github.com/devpawann'
