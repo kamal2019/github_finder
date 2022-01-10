@@ -7,6 +7,11 @@ const Navbar = (props) => {
                 <h1>
                     <i className ={props.icon}/>   {props.title}
                 </h1>
+                    <ul>
+                        <li>
+                            <a href='/about'>About</a>
+                        </li>
+                    </ul>
             </nav>
         )
     }
